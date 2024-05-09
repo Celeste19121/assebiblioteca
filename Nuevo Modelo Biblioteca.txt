@@ -1,6 +1,6 @@
 Nuevo Modelo Biblioteca
-<<<<<<< HEAD
+
  Nuevo Linea de texto
-=======
+
 Nuevo Linea de texto
->>>>>>> Feature/NuevoModeloBiblioteca
+ Feature/NuevoModeloBiblioteca
